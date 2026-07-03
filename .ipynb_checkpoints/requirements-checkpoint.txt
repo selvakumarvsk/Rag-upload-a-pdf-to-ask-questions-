@@ -1,0 +1,9 @@
+langchain
+load-dotenv
+langchain-community 
+pypdf 
+langchain-text-splitters
+faiss-cpu
+google-genai 
+langchain-google-genai
+sentence-transformers
